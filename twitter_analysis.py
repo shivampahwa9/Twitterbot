@@ -9,13 +9,13 @@ nltk.download('stopwords')
 nltk.download('punket')
 
 ###consumer key
-consumer_key='3i5orl9oNzrafOBS0B0w8AnOi'
+consumer_key=' '
 ###consumer secret key
-consumer_secret='TAkmBufSJXCl5PtE7VhigzwLzahaOHcYyDMycRM46zgCctUujD'
+consumer_secret=' '
 ### access token
-access_token='271375627-qJpFwHauxMXQjdeztFDXRXMNYbq38UwtB5Cb2hJN'
+access_token=' '
 #### access token secret key
-access_token_secret='OuemULbt3TwEBIl2NnN1BzZuEiSemksfkweaNoGfw8SGI'
+access_token_secret=' '
 
 
 auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
